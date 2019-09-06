@@ -2,3 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+
+.face {
+  position: absolute;
+  cursor: grab;
+}
